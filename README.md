@@ -1,1 +1,2 @@
 # Weather_Report
+Creating a class named weather report that holds a daily weather report with data members day_of_month,hightemp,lowtemp,amount_rain and amount_snow. The constructor initializes the fields with default values: 99 for day_of_month, 999 for hightemp,-999 for low emp and 0 for amount_rain and amount_snow. Include a function that prompts the user and sets values for each field so that you can override the default values. This creates a monthly report. Its Menu driven program with options to Enter data and Display the report.
